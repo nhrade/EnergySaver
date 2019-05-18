@@ -1,6 +1,7 @@
 # EnergySaver
 
-These are the code files for energy saver, using the dialogflow API for NodeJS. This functions as the server component of the system while a dialogflow agent serves as the client.
+
+This project was developed with help from the Department of Energy under the virtual student federal service, these are the code files for energy saver dialogflow application, using the dialogflow API for NodeJS. This functions as the server component of the system while a dialogflow agent serves as the client.
 
 To install all the required packages please use ```npm install``` when using a unix terminal like bash, this will install all the necessary components from npm.
 
