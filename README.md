@@ -42,7 +42,7 @@ const applianceUrls = {
 
 The agent still has problems with the google assistant front end, and will occasionally crash when using it. I couldn't find any solutions that I could implement in a short amount of time, short of a full rewrite using an XML generator, to generate the response files required by the HTTP api of dialogflow.
 
-The part where the server tries to request energy cost information from the NREL database doesn't work entirely, I didn't have enough time to add all of it with school and trying to fix the previous problem with google assistant.
+The part where the server tries to request energy cost information from the NREL database doesn't work entirely, I didn't have enough time to add all of it with school and trying to fix the previous problem with google assistant. It might be better to comment it out for now, and try to finish reimplementing it later.
 
 
 
